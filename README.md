@@ -1,9 +1,9 @@
-# XMAS tree with WS2812 LEDstrip and MAX7219 4x8x8 LED MAtrix and 2 ATTiny85
+## XMAS tree with WS2812 LEDstrip and MAX7219 4x8x8 LED MAtrix and 2 ATTiny85
 
-## Parts
+parts used:
 2 x Digispark ATTiny85
-WS2812 LED strip
-MAX7219 4x8x8 LED Matrix
+WS2812 LED strip (56 LEDs)
+MAX7219 4x8x8 LED Matrix board
 
 This is my first project on GitHub. For Xmas I made a nice LED-tree with scrolling best wishes
 
