@@ -1,4 +1,5 @@
-## XMAS tree with WS2812 LEDstrip and MAX7219 4x8x8 LED MAtrix and 2 ATTiny85
+## XMAS tree with 2 ATTiny's, a WS2812 LED strip and 
+## MAX7219 4x8x8 LED MAtrix 2 ATTiny85
 
 parts used:
 2 x Digispark ATTiny85
