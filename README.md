@@ -13,6 +13,10 @@ Because it has just 512 bytes of EEPROM memory, I could only use capital letters
 Scrolling the text itself was an other hurdle to take. The max7219 Matrix board I used has a 90 degree rotation.
 So I had to combine serveral sketches to finaly get the job done. Yeeehaah!
 
+I'm using this library
+; https://github.com/wayoda/LedControl
+
+
 The second sketch is used for the second ATTiny connected to the LED strip to make the outline of the xmas tree.
 It has some nice patterns to get everyone's attention.
 
